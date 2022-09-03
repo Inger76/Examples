@@ -1,2 +1,2 @@
-#Hello
-Home works from SkillFactory school
+#Hello, this is repository for my homeworks from SkillFactory school.
+
