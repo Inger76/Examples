@@ -1,2 +1,1 @@
-#Hello, this is repository for my homeworks from SkillFactory school.
-
+:pencil2: :notebook:
